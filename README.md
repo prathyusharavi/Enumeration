@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-15 at 09 08 17_77123c44](https://github.com/user-attachments/assets/978141b7-b0b0-4a3e-8812-ec271feb68aa)# Enumeration
+# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
