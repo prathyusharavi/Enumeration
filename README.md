@@ -1,4 +1,4 @@
-# Enumeration
+![WhatsApp Image 2025-03-15 at 09 08 17_77123c44](https://github.com/user-attachments/assets/978141b7-b0b0-4a3e-8812-ec271feb68aa)# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
@@ -70,8 +70,9 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
+![WhatsApp Image 2025-03-15 at 09 08 17_0bf124b7](https://github.com/user-attachments/assets/93107171-3440-4fdc-99dd-a20b2964f85d)
 
-![Uploading WhatsApp Image 2025-03-15 at 09.08.17_77123c44.jpg…]()
+
 
 
 
